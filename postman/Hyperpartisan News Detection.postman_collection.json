@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "977d8dc2-bc7d-4303-8ff1-448ee7fae958",
+		"name": "Hyperpartisan News Detection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "detect",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
